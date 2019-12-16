@@ -17,9 +17,11 @@ You'll need to install some python packages for pihost.
     sudo pip3 install requests
 
 And you will also need tcpdump
+
     sudo apt-get install tcpdump
 
 and then we need scapy
+
     git clone https://github.com/secdev/scapy
     cd scapy
     sudo python3 setup.py install
@@ -42,7 +44,7 @@ what we're looking at in the PiHole console. Head on over to fingerbank.org
 and creat a free account. Once that's done you'll need to get your API key
 from the 'My Account' section.
 
-### Usage
+## Usage
 
 sudo python3 pihost.py
 
