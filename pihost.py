@@ -15,6 +15,9 @@ Usage notes
         API_KEY = "<Insert your key here>"
 - Displays log messages at appropriate times
 License: MIT.
+
+Read my blog for more info - http://cjdwyer.com/2019/12/18/adding-hostnames-to-pi-hole/
+
 '''
 
 import os

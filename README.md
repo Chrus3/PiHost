@@ -1,4 +1,7 @@
 # PiHost
+
+Read my blog for more info - http://cjdwyer.com/2019/12/18/adding-hostnames-to-pi-hole/
+
 ## Match IP addresses to hostnames in PiHole
 
 Pihole is great, but the admin interface only displays device details 
